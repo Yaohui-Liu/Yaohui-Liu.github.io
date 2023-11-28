@@ -46,13 +46,39 @@ redirect_from:
 
 **Yaohui Liu**, Lutz Gross, Zhiqiang Li, Xiaoli Li, Xiwei Fan, Wenhua Qi
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">]. IEEE Access, 2020</div><img src='images/2.tif' alt="sym1" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[ARC-Net: An efficient network for building extraction from high-resolution aerial images](https://ieeexplore.ieee.org/abstract/document/9165718)
+
+**Yaohui Liu**, Jie Zhou, Wenhua Qi, Xiaoli Li, Lutz Gross, Qi Shao, Zhengguang Zhao, Li Ni, Xiwei Fan, Zhiqiang Li
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022年度优秀共享开放遥感数据集奖</div><img src='images/tlhnz-sl9bn.png' alt="sym2" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[中国农村地区建筑物样本及标注无人机影像数据集](http://www.scidb.cn/s/j3Iryee)
+
+**刘耀辉**，杨新月，李嘉禾，程昊，周洁，范熙伟，张昊宇，李晓丽，齐文华，李志强
+
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- **Liu Y**, Liu W, Zhang X, et al. Nighttime light perspective in urban resilience assessment and spatiotemporal impact of COVID-19 from January to June 2022 in mainland China[J]. **Urban Climate**, 2023: 101591.
+- **Liu Y**, Liu W, Lin Y, et al. Urban waterlogging resilience assessment and postdisaster recovery monitoring using NPP-VIIRS nighttime light data: A case study of the ‘July 20, 2021’heavy rainstorm in Zhengzhou City, China[J]. **International Journal of Disaster Risk Reduction**, 2023: 103649.
+- **Liu Y**, Zhang X, Liu W, et al. Seismic vulnerability and risk assessment at the urban scale using support vector machine and GIScience technology: a case study of the Lixia District in Jinan City, China[J]. **Geomatics, Natural Hazards and Risk**, 2023, 14(1): 2173663.
+- **Liu Y**, Liu W, Qiu P, et al. Spatiotemporal Evolution and Correlation Analysis of Carbon Emissions in the Nine Provinces along the Yellow River since the 21st Century Using Nighttime Light Data[J]. **Land**, 2023, 12(7): 1469.
+- **Liu Y**, Zhang W, Chen X, et al. Landslide Detection of High-Resolution Satellite Images using Asymmetric Dual-Channel Network[C]//**2021 IEEE International Geoscience and Remote Sensing Symposium IGARSS. IEEE**, 2021: 4091-4094.
+- **Liu Y**, So E, Li Z, et al. Scenario-based seismic vulnerability and hazard analyses to help direct disaster risk reduction in rural Weinan, China[J]. **International Journal of Disaster Risk Reduction**, 2020, 48: 101577.
+- **Liu Y**, Zhou J, Qi W, et al. ARC-Net: An efficient network for building extraction from high-resolution aerial images[J]. **IEEE Access**, 2020, 8: 154997-155010.
+- **Liu Y**, Li Z, Wei B, et al. Seismic vulnerability assessment at urban scale using data mining and GIScience technology: application to Urumqi (China)[J].**Geomatics, Natural Hazards and Risk**, 2019. 
+- **Liu Y**, Gross L, Li Z, et al. Automatic building extraction on high-resolution remote sensing imagery using deep convolutional encoder-decoder with spatial pyramid pooling[J]. **IEEE Access, 2019**, 7: 128774-128786. 
+- **刘耀辉**. 面向地震风险评估的高分辨率遥感影像建筑物信息提取与研究[J]. **测绘学报**, 2022, 51(09): 1977.
+- **刘耀辉**, 于祥慧, 范洁洁,等. 基于无人机影像和面向对象的中国西部地区农村宅基地面积快速估算[J]. **测绘通报**, 2022 (06): 125-129.
+- **刘耀辉**, 杨新月, 李嘉禾, 等. 中国农村地区建筑物样本及标注无人机影像数据集[J]. **中国科学数据(中英文网络版)**, 2022, 7(02): 182-194.
+- **刘耀辉**, 刘婉婷, 张文焯, 等. 基于新浪微博数据的云南漾濞6.4级地震舆情时空特征及情感分析[J]. **自然灾害学报**, 2022, 31(01): 168-178.
+- **刘耀辉**, 李金平, 王刘伟. 红河断裂带闭锁程度和滑动亏损分布特征研究[J]. **测绘工程**, 2015, 24(8): 20-22.
+- **刘耀辉**, 李金平, 王刘伟. 小江断裂带地壳运动特征及地震危险性研究[J]. **测绘工程**, 2015, 24(7): 58-60.
+
 
 # 🎖 所获荣誉
 - *2023年* 获得2023年度山东省自然资源科学技术一等奖。
