@@ -17,9 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+刘耀辉，男，在站博士后、硕士生导师。澳大利亚昆士兰大学高级访问学者，国家自然科学基金评审专家，江苏省教育厅本科毕业论文（设计）抽检评审专家，中国地理学会会员，中国图像图形学会会员，山东省灾害防御协会专家组成员，山东省第一次全国自然灾害综合风险普查领导小组技术组秘书处成员，Journal of Ecology and Natural Resources编委，IJERPH、Frontiers in Remote Sensing客座编辑，山东建筑大学优秀指导教师。
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+主持国家自然科学基金、中国博士后科学基金、山东省自然科学基金、科技部、教育部等多项科研项目，参与国家自然科学基金国际（地区）合作与交流项目、面上基金、青年基金，国家重点研发计划项目，中国地震局行业专项等十余项。
+
+近年来发表论文50余篇，论文总被引超过500次。长期担任IEEE TGRS; Remote Sensing; IEEE Sensors Journal; IJDE; IEEE JSTARS; IJERPH; Sensors; IEEE Access; Buildings; Geocarto International; Sustainability; Arabian Journal of Geosciences; GeoHazards; Informatics; 测绘通报; 北京测绘等多个期刊审稿专家。
+与中国地震局地质研究所、中国地震台网中心、山东省地震局、国家对地观测科学数据中心、山东科技大学、澳大利亚昆士兰大学等多家单位开展密切合作。
+欢迎遥感、地理、灾害、生态、环境、测绘、数学、图像处理、计算机、人工智能、模式识别 等相关专业考生报考！
 
 
 # 🔥 News
@@ -54,5 +58,3 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
