@@ -75,31 +75,31 @@ redirect_from:
 
 # 代表论著 (Papers)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Access, 2019</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+# <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Access, 2019</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+# <div class='paper-box-text' markdown="1">
 
-[Automatic building extraction on high-resolution remote sensing imagery using deep convolutional encoder-decoder with spatial pyramid pooling](https://ieeexplore.ieee.org/document/8832142)
+# [Automatic building extraction on high-resolution remote sensing imagery using deep convolutional encoder-decoder with spatial pyramid pooling](https://ieeexplore.ieee.org/document/8832142)
 
-**Yaohui Liu**, Lutz Gross, Zhiqiang Li, Xiaoli Li, Xiwei Fan, Wenhua Qi
-</div>
-</div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Access, 2020</div><img src='images/aasfn-wseoa.png' alt="sym1" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+# **Yaohui Liu**, Lutz Gross, Zhiqiang Li, Xiaoli Li, Xiwei Fan, Wenhua Qi
+# </div>
+# </div>
+# <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Access, 2020</div><img src='images/aasfn-wseoa.png' alt="sym1" width="100%"></div></div>
+# <div class='paper-box-text' markdown="1">
 
-[ARC-Net: An efficient network for building extraction from high-resolution aerial images](https://ieeexplore.ieee.org/abstract/document/9165718)
+# [ARC-Net: An efficient network for building extraction from high-resolution aerial images](https://ieeexplore.ieee.org/abstract/document/9165718)
 
-**Yaohui Liu**, Jie Zhou, Wenhua Qi, Xiaoli Li, Lutz Gross, Qi Shao, Zhengguang Zhao, Li Ni, Xiwei Fan, Zhiqiang Li
-</div>
-</div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022年度优秀共享开放遥感数据集奖</div><img src='images/tlhnz-sl9bn.png' alt="sym2" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+# **Yaohui Liu**, Jie Zhou, Wenhua Qi, Xiaoli Li, Lutz Gross, Qi Shao, Zhengguang Zhao, Li Ni, Xiwei Fan, Zhiqiang Li
+# </div>
+# </div>
+# <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022年度优秀共享开放遥感数据集奖</div><img src='images/tlhnz-sl9bn.png' alt="sym2" width="100%"></div></div>
+# <div class='paper-box-text' markdown="1">
 
-[中国农村地区建筑物样本及标注无人机影像数据集](http://www.scidb.cn/s/j3Iryee)
+# [中国农村地区建筑物样本及标注无人机影像数据集](http://www.scidb.cn/s/j3Iryee)
 
-**刘耀辉**，杨新月，李嘉禾，程昊，周洁，范熙伟，张昊宇，李晓丽，齐文华，李志强
+# **刘耀辉**，杨新月，李嘉禾，程昊，周洁，范熙伟，张昊宇，李晓丽，齐文华，李志强
 
-</div>
-</div>
+# </div>
+# </div>
 
 - **Liu Y**, Liu W, Zhang X, et al. Nighttime light perspective in urban resilience assessment and spatiotemporal impact of COVID-19 from January to June 2022 in mainland China[J]. **Urban Climate**, 2023: 101591.
 - **Liu Y**, Liu W, Lin Y, et al. Urban waterlogging resilience assessment and postdisaster recovery monitoring using NPP-VIIRS nighttime light data: A case study of the ‘July 20, 2021’heavy rainstorm in Zhengzhou City, China[J]. **International Journal of Disaster Risk Reduction**, 2023: 103649.
