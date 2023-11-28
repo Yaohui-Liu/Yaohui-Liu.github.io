@@ -45,14 +45,16 @@ redirect_from:
 [Automatic building extraction on high-resolution remote sensing imagery using deep convolutional encoder-decoder with spatial pyramid pooling](https://ieeexplore.ieee.org/document/8832142)
 
 **Yaohui Liu**, Lutz Gross, Zhiqiang Li, Xiaoli Li, Xiwei Fan, Wenhua Qi
-
+</div>
+</div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">]. IEEE Access, 2020</div><img src='images/2.tif' alt="sym1" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ARC-Net: An efficient network for building extraction from high-resolution aerial images](https://ieeexplore.ieee.org/abstract/document/9165718)
 
 **Yaohui Liu**, Jie Zhou, Wenhua Qi, Xiaoli Li, Lutz Gross, Qi Shao, Zhengguang Zhao, Li Ni, Xiwei Fan, Zhiqiang Li
-
+</div>
+</div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022年度优秀共享开放遥感数据集奖</div><img src='images/tlhnz-sl9bn.png' alt="sym2" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
