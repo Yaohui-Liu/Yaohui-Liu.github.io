@@ -26,10 +26,16 @@ redirect_from:
 欢迎遥感、地理、灾害、生态、环境、测绘、数学、图像处理、计算机、人工智能、模式识别 等相关专业考生报考！
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+# 🔥 科研项目
+- *2022.1-2025.12*: &nbsp;🎉🎉	国家自然科学基金，基于韧性理论的中国西部农村家庭震后恢复的区域对比研究，，主要参与。
+- *2021.3-2022.12*: &nbsp;🎉🎉	河北省地震动力学重点实验室开放基金，基于高分辨率遥感影像和深度学习的活动断层智能解译研究，，主持。
+- *2023.4-2024.12*: &nbsp;🎉🎉	山东省煤田地质规划勘察研究院开放基金，基于Google Earth Engine的黄河流域山东段近 20 年生态景观格局及驱动力研究，，主持。
+- *2020.9-2021.8*: &nbsp;🎉🎉 国家对地观测科学数据中心开放基金，基于无人机影像和深度学习的中国农村地区建筑物样本数据集建立与应用研究，，主持。
+- *2022.10-2023.10*: &nbsp;🎉🎉 教育部产学合作协同育人项目，基于动态信息的危货车辆导航系统研究，，主持。
+- *2022.12-2024.12*: &nbsp;🎉🎉 科技部国家野外科学观测研究站研究课题，基于Sentinel遥感影像和深度学习的青藏高原地质灾害识别及危险性评估，，主持。
+- *2022.1-2024.12*: &nbsp;🎉🎉 山东省自然科学基金，多源数据协同深度学习揭示的山东省大中城市地震灾害风险空间分布，，主持。
+- *2023.1-2025.12*: &nbsp;🎉🎉	国家自然科学基金，地震易损性快速评估背景下顾及复杂环境遥感图谱和卷积运算效率的建筑物提取方法研究，主持。
+- *              *: &nbsp;🎉🎉 中国博士后科学基金，面向地震易损性评估的多源遥感建筑物信息提取关键问题研究，第73批面上资助，主持。
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
