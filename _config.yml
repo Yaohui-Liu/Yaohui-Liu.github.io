@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yaohui Liu (刘耀辉)
+title                    : "Yaohui Liu (刘耀辉)"
 description              : "山东建筑大学，测绘地理信息学院 "
 repository               : "Yaohui-Liu/Yaohui-Liu.github.io"
 google_scholar_stats_use_cdn : true
