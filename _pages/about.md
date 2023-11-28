@@ -23,6 +23,7 @@ redirect_from:
 
 近年来发表论文50余篇，论文总被引超过500次。长期担任IEEE TGRS; Remote Sensing; IEEE Sensors Journal; IJDE; IEEE JSTARS; IJERPH; Sensors; IEEE Access; Buildings; Geocarto International; Sustainability; Arabian Journal of Geosciences; GeoHazards; Informatics; 测绘通报; 北京测绘等多个期刊审稿专家。
 与中国地震局地质研究所、中国地震台网中心、山东省地震局、国家对地观测科学数据中心、山东科技大学、澳大利亚昆士兰大学等多家单位开展密切合作。
+
 欢迎遥感、地理、灾害、生态、环境、测绘、数学、图像处理、计算机、人工智能、模式识别 等相关专业考生报考！
 
 
