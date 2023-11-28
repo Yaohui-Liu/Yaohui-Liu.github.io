@@ -21,13 +21,13 @@ redirect_from:
 
 **刘耀辉，男，在站博士后、副教授、硕士生导师**
 
-澳大利亚昆士兰大学高级访问学者，国家自然科学基金评审专家，江苏省教育厅本科毕业论文（设计）抽检评审专家，中国地理学会会员，中国图像图形学会会员，山东省灾害防御协会专家组成员，山东省第一次全国自然灾害综合风险普查领导小组技术组秘书处成员，Journal of Ecology and Natural Resources编委，IJERPH、Frontiers in Remote Sensing客座编辑，山东建筑大学优秀指导教师。
+- 澳大利亚昆士兰大学高级访问学者，国家自然科学基金评审专家，江苏省教育厅本科毕业论文（设计）抽检评审专家，中国地理学会会员，中国图像图形学会会员，山东省灾害防御协会专家组成员，山东省第一次全国自然灾害综合风险普查领导小组技术组秘书处成员，Journal of Ecology and Natural Resources编委，IJERPH、Frontiers in Remote Sensing客座编辑，山东建筑大学优秀指导教师。
 
-主持国家自然科学基金、中国博士后科学基金、山东省自然科学基金、科技部、教育部等多项科研项目，参与国家自然科学基金国际（地区）合作与交流项目、面上基金、青年基金，国家重点研发计划项目，中国地震局行业专项等十余项。
+- 主持国家自然科学基金、中国博士后科学基金、山东省自然科学基金、科技部、教育部等多项科研项目，参与国家自然科学基金国际（地区）合作与交流项目、面上基金、青年基金，国家重点研发计划项目，中国地震局行业专项等十余项。
 
-近年来发表论文50余篇，论文总被引超过500次。长期担任IEEE TGRS; Remote Sensing; IEEE Sensors Journal; IJDE; IEEE JSTARS; IJERPH; Sensors; IEEE Access; Buildings; Geocarto International; Sustainability; Arabian Journal of Geosciences; GeoHazards; Informatics; 测绘通报; 北京测绘等多个期刊审稿专家。
+- 近年来发表论文50余篇，论文总被引超过500次。长期担任IEEE TGRS; Remote Sensing; IEEE Sensors Journal; IJDE; IEEE JSTARS; IJERPH; Sensors; IEEE Access; Buildings; Geocarto International; Sustainability; Arabian Journal of Geosciences; GeoHazards; Informatics; 测绘通报; 北京测绘等多个期刊审稿专家。
 
-与中国地震局地质研究所、中国地震台网中心、山东省地震局、国家对地观测科学数据中心、山东科技大学、澳大利亚昆士兰大学等多家单位开展密切合作。
+- 与中国地震局地质研究所、中国地震台网中心、山东省地震局、国家对地观测科学数据中心、山东科技大学、澳大利亚昆士兰大学等多家单位开展密切合作。
 
 
 # 研究方向 (Interests)
