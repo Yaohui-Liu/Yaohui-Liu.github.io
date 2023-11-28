@@ -46,7 +46,7 @@ author:
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : "https://orcid.org/0000-0002-3041-3557"
-  pinterest        :
+  Scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57206823558"
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
@@ -57,7 +57,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  Scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57206823558"
+
 
 # Reading Files
 include:
