@@ -47,7 +47,7 @@ redirect_from:
 **Yaohui Liu**, Lutz Gross, Zhiqiang Li, Xiaoli Li, Xiwei Fan, Wenhua Qi
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">]. IEEE Access, 2020</div><img src='images/2.tif' alt="sym1" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">]. IEEE Access, 2020</div><img src='images/aasfn-wseoa.png' alt="sym1" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ARC-Net: An efficient network for building extraction from high-resolution aerial images](https://ieeexplore.ieee.org/abstract/document/9165718)
