@@ -37,15 +37,15 @@ redirect_from:
 -	河北省地震动力学重点实验室开放基金，基于高分辨率遥感影像和深度学习的活动断层智能解译研究，2021.3-2022.12，主持。
 -	国家自然科学基金，基于韧性理论的中国西部农村家庭震后恢复的区域对比研究，2022.1-2025.12，主要参与。
 
-# 📝 Publications 
+# 📝 代表论著
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Access, 2019![image](https://github.com/Yaohui-Liu/Yaohui-Liu.github.io/assets/152260164/9ec5b655-6f97-422c-a7a8-6ed421c866ab)
-</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Access, 2019</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Automatic building extraction on high-resolution remote sensing imagery using deep convolutional encoder-decoder with spatial pyramid pooling](https://ieeexplore.ieee.org/document/8832142)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Yaohui Liu**, Lutz Gross, Zhiqiang Li, Xiaoli Li, Xiwei Fan, Wenhua Qi
+
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
