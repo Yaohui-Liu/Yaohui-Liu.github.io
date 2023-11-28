@@ -24,6 +24,7 @@ redirect_from:
 主持国家自然科学基金、中国博士后科学基金、山东省自然科学基金、科技部、教育部等多项科研项目，参与国家自然科学基金国际（地区）合作与交流项目、面上基金、青年基金，国家重点研发计划项目，中国地震局行业专项等十余项。
 
 近年来发表论文50余篇，论文总被引超过500次。长期担任IEEE TGRS; Remote Sensing; IEEE Sensors Journal; IJDE; IEEE JSTARS; IJERPH; Sensors; IEEE Access; Buildings; Geocarto International; Sustainability; Arabian Journal of Geosciences; GeoHazards; Informatics; 测绘通报; 北京测绘等多个期刊审稿专家。
+
 与中国地震局地质研究所、中国地震台网中心、山东省地震局、国家对地观测科学数据中心、山东科技大学、澳大利亚昆士兰大学等多家单位开展密切合作。
 
 
