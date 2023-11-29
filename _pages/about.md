@@ -79,8 +79,10 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 
 [Automatic building extraction on high-resolution remote sensing imagery using deep convolutional encoder-decoder with spatial pyramid pooling](https://ieeexplore.ieee.org/document/8832142)
-<span class='show_paper_citations' data='xTVx9OgAAAAJ:u-x6o8ySG0sC'></span>
+
 **Yaohui Liu**, Lutz Gross, Zhiqiang Li, Xiaoli Li, Xiwei Fan, Wenhua Qi
+
+<span class='show_paper_citations' data='xTVx9OgAAAAJ:u-x6o8ySG0sC'></span>
 </div>
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESI高被引论文</div><img src='images/aasfn-wseoa.png' alt="sym1" width="100%"></div></div>
