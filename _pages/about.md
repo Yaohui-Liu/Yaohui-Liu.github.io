@@ -104,6 +104,7 @@ redirect_from:
 </div>
 </div>
 
+
 - **Liu Y**, Liu W, Zhang X, et al. Nighttime light perspective in urban resilience assessment and spatiotemporal impact of COVID-19 from January to June 2022 in mainland China[J]. **Urban Climate**, 2023: 101591.
 - **Liu Y**, Liu W, Lin Y, et al. Urban waterlogging resilience assessment and postdisaster recovery monitoring using NPP-VIIRS nighttime light data: A case study of the ‘July 20, 2021’heavy rainstorm in Zhengzhou City, China[J]. **International Journal of Disaster Risk Reduction**, 2023: 103649.
 - **Liu Y**, Zhang X, Liu W, et al. Seismic vulnerability and risk assessment at the urban scale using support vector machine and GIScience technology: a case study of the Lixia District in Jinan City, China[J]. **Geomatics, Natural Hazards and Risk**, 2023, 14(1): 2173663.
@@ -117,9 +118,13 @@ redirect_from:
 - **刘耀辉**, 于祥慧, 范洁洁,等. 基于无人机影像和面向对象的中国西部地区农村宅基地面积快速估算[J]. **测绘通报**, 2022 (06): 125-129.
 - **刘耀辉**, 杨新月, 李嘉禾, 等. 中国农村地区建筑物样本及标注无人机影像数据集[J]. **中国科学数据(中英文网络版)**, 2022, 7(02): 182-194.
 - **刘耀辉**, 刘婉婷, 张文焯, 等. 基于新浪微博数据的云南漾濞6.4级地震舆情时空特征及情感分析[J]. **自然灾害学报**, 2022, 31(01): 168-178.
-- **刘耀辉**, 李金平, 王刘伟. 红河断裂带闭锁程度和滑动亏损分布特征研究[J]. **测绘工程**, 2015, 24(8): 20-22.
-- **刘耀辉**, 李金平, 王刘伟. 小江断裂带地壳运动特征及地震危险性研究[J]. **测绘工程**, 2015, 24(7): 58-60.
-
+- 李晓丽, 杨建思, 李志强, 王丽莉, **刘耀辉**. "基于地震危险性评估的城市地震应急避难场所需求分析——以辽宁省朝阳市为例." 2018 年中国地球科学联合学术年会论文集 (十六)——专题 30:“张衡一号” 卫星应用与国家地球物理场卫星探测计划, 专题 31: 强震动观测及其应用, 专题 32: 地震应急的现状与前景 (2018).
+- 付博, 李志强, 陈杰, 范熙伟, 李晓丽, 李涛, 姚远, **刘耀辉**. 微型无人机在 2016 年 11 月 25 日阿克陶 M_W6. 6 地震中的应用探索[J]. 地震地质, 2018, 40(3): 672-684.
+- 吴兵, 李志强, 齐文华, 杨凡，李晓丽，**刘耀辉**，付博. 以乡镇居民地为单元的震后埋压人员分布与救援对策——以乌鲁木齐市为例[J]. 华北地震科学, 2017, 35(3): 13-19.
+- **刘耀辉**. 基于 GPS 数据的滇中地区及邻区断裂带形变特征及地震危险性研究[D]. 昆明: 云南师范大学, 2016.
+- **刘耀辉**, 李金平, 王刘伟. 小江断裂带地壳运动特征及地震危险性研究[J]. 测绘工程, 2015, 24(7): 58-60.
+- **刘耀辉**, 李金平, 王刘伟. 红河断裂带闭锁程度和滑动亏损分布特征研究[J]. 测绘工程, 2015 (8): 20-22 26.
+- 王刘伟, 李金平, **刘耀辉**. 高分辨率遥感影像建筑物震害信息提取方法比较研究[J]. 黑龙江工程学院学报, 2015, 29(4): 11-13.
 
 # 所获荣誉 (Honors)
 - *2023年* 获得2023年度**山东省自然资源科学技术一等奖**。
