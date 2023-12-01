@@ -89,7 +89,7 @@ redirect_from:
 
 [ARC-Net: An efficient network for building extraction from high-resolution aerial images](https://ieeexplore.ieee.org/abstract/document/9165718)
 
-**Yaohui Liu**, Jie Zhou, Wenhua Qi, Xiaoli Li, Lutz Gross, Qi Shao, Zhengguang Zhao, Li Ni, Xiwei Fan, Zhiqiang Li
+**Yaohui Liu**, Wenhua Qi, Xiaoli Li, Lutz Gross, Qi Shao, Zhengguang Zhao, Li Ni, Xiwei Fan, Zhiqiang Li
 <strong><span class="show_paper_citations" data="xTVx9OgAAAAJ:UeHWp8X0CEIC"></span></strong>
 
 </div>
