@@ -104,10 +104,9 @@ redirect_from:
 </div>
 </div>
 
-
-- **Liu Y**, Lin Y, Wang F, et al. Post-earthquake recovery and its driving forces of ecological environment quality using remote sensing and GIScience, a case study of 2015 Ms8. 1 Nepal earthquake[J]. Geomatics, Natural Hazards and Risk, 2023, 14(1): 2279496.
-- **Liu Y**, Liu W, Zhang X, et al. Nighttime light perspective in urban resilience assessment and spatiotemporal impact of COVID-19 from January to June 2022 in mainland China[J]. **Urban Climate**, 2023: 101591.
 - **Liu Y**, Liu W, Lin Y, et al. Urban waterlogging resilience assessment and postdisaster recovery monitoring using NPP-VIIRS nighttime light data: A case study of the ‘July 20, 2021’heavy rainstorm in Zhengzhou City, China[J]. **International Journal of Disaster Risk Reduction**, 2023: 103649.
+- **Liu Y**, Lin Y, Wang F, et al. Post-earthquake recovery and its driving forces of ecological environment quality using remote sensing and GIScience, a case study of 2015 Ms8. 1 Nepal earthquake[J]. **Geomatics, Natural Hazards and Risk**, 2023, 14(1): 2279496.
+- **Liu Y**, Liu W, Zhang X, et al. Nighttime light perspective in urban resilience assessment and spatiotemporal impact of COVID-19 from January to June 2022 in mainland China[J]. **Urban Climate**, 2023: 101591.
 - **Liu Y**, Zhang X, Liu W, et al. Seismic vulnerability and risk assessment at the urban scale using support vector machine and GIScience technology: a case study of the Lixia District in Jinan City, China[J]. **Geomatics, Natural Hazards and Risk**, 2023, 14(1): 2173663.
 - **Liu Y**, Liu W, Qiu P, et al. Spatiotemporal Evolution and Correlation Analysis of Carbon Emissions in the Nine Provinces along the Yellow River since the 21st Century Using Nighttime Light Data[J]. **Land**, 2023, 12(7): 1469.
 - **Liu Y**, Zhang W, Chen X, et al. Landslide Detection of High-Resolution Satellite Images using Asymmetric Dual-Channel Network[C]//**2021 IEEE International Geoscience and Remote Sensing Symposium IGARSS. IEEE**, 2021: 4091-4094.
@@ -116,7 +115,7 @@ redirect_from:
 - **Liu Y**, Li Z, Wei B, et al. Seismic vulnerability assessment at urban scale using data mining and GIScience technology: application to Urumqi (China)[J].**Geomatics, Natural Hazards and Risk**, 2019. 
 - **Liu Y**, Gross L, Li Z, et al. Automatic building extraction on high-resolution remote sensing imagery using deep convolutional encoder-decoder with spatial pyramid pooling[J]. **IEEE Access, 2019**, 7: 128774-128786. 
 - **刘耀辉**. 面向地震风险评估的高分辨率遥感影像建筑物信息提取与研究[J]. **测绘学报**, 2022, 51(09): 1977.
-- **刘耀辉**, 于祥慧, 范洁洁,等. 基于无人机影像和面向对象的中国西部地区农村宅基地面积快速估算[J]. **测绘通报**, 2022 (06): 125-129.
+- **刘耀辉**, 于祥慧, 范洁洁, 等. 基于无人机影像和面向对象的中国西部地区农村宅基地面积快速估算[J]. **测绘通报**, 2022 (06): 125-129.
 - **刘耀辉**, 杨新月, 李嘉禾, 等. 中国农村地区建筑物样本及标注无人机影像数据集[J]. **中国科学数据(中英文网络版)**, 2022, 7(02): 182-194.
 - **刘耀辉**, 刘婉婷, 张文焯, 等. 基于新浪微博数据的云南漾濞6.4级地震舆情时空特征及情感分析[J]. **自然灾害学报**, 2022, 31(01): 168-178.
 - 李晓丽, 杨建思, 李志强, 王丽莉, **刘耀辉**. "基于地震危险性评估的城市地震应急避难场所需求分析——以辽宁省朝阳市为例." 2018 年中国地球科学联合学术年会论文集 (十六)——专题 30:“张衡一号” 卫星应用与国家地球物理场卫星探测计划, 专题 31: 强震动观测及其应用, 专题 32: 地震应急的现状与前景 (2018).
