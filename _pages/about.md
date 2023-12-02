@@ -1,4 +1,4 @@
----
+![image](https://github.com/Yaohui-Liu/Yaohui-Liu.github.io/assets/152260164/821c6bf1-b790-4546-9308-c0e5fe42fd6a)---
 permalink: /
 title: ""
 excerpt: ""
@@ -41,7 +41,7 @@ redirect_from:
 
 # 招生信息 (Enrollment)
 
-- **测绘科学与技术（学硕）/测绘工程（专硕）** 研究生导师
+- <font color=#FF000>测绘科学与技术（学硕）/测绘工程（专硕）</font> 研究生导师
 
 - **招生名额**：**2名**
 
