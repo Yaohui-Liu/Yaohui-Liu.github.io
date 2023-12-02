@@ -112,7 +112,7 @@ redirect_from:
 - **Liu Y**, Zhang W, Chen X, et al. Landslide Detection of High-Resolution Satellite Images using Asymmetric Dual-Channel Network[C]//**2021 IEEE International Geoscience and Remote Sensing Symposium IGARSS. IEEE**, 2021: 4091-4094.
 - **Liu Y**, So E, Li Z, et al. Scenario-based seismic vulnerability and hazard analyses to help direct disaster risk reduction in rural Weinan, China[J]. **International Journal of Disaster Risk Reduction**, 2020, 48: 101577.
 - **Liu Y**, Zhou J, Qi W, et al. ARC-Net: An efficient network for building extraction from high-resolution aerial images[J]. **IEEE Access**, 2020, 8: 154997-155010.
-- **Liu Y**, Li Z, Wei B, et al. Seismic vulnerability assessment at urban scale using data mining and GIScience technology: application to Urumqi (China)[J].**Geomatics, Natural Hazards and Risk**, 2019. 
+- **Liu Y**, Li Z, Wei B, et al. Seismic vulnerability assessment at urban scale using data mining and GIScience technology: application to Urumqi (China)[J]. **Geomatics, Natural Hazards and Risk**, 2019. 
 - **Liu Y**, Gross L, Li Z, et al. Automatic building extraction on high-resolution remote sensing imagery using deep convolutional encoder-decoder with spatial pyramid pooling[J]. **IEEE Access, 2019**, 7: 128774-128786. 
 - **刘耀辉**. 面向地震风险评估的高分辨率遥感影像建筑物信息提取与研究[J]. **测绘学报**, 2022, 51(09): 1977.
 - **刘耀辉**, 于祥慧, 范洁洁, 等. 基于无人机影像和面向对象的中国西部地区农村宅基地面积快速估算[J]. **测绘通报**, 2022 (06): 125-129.
@@ -153,5 +153,5 @@ redirect_from:
 - *2020年* 获得**博士研究生国家奖学金**。
 
 
-# *Last Updates* 2023.11.29
+# *Last Updates* 2023.12.02
 
