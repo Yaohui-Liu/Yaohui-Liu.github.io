@@ -105,6 +105,7 @@ redirect_from:
 </div>
 
 
+- **Liu Y**, Lin Y, Wang F, et al. Post-earthquake recovery and its driving forces of ecological environment quality using remote sensing and GIScience, a case study of 2015 Ms8. 1 Nepal earthquake[J]. Geomatics, Natural Hazards and Risk, 2023, 14(1): 2279496.
 - **Liu Y**, Liu W, Zhang X, et al. Nighttime light perspective in urban resilience assessment and spatiotemporal impact of COVID-19 from January to June 2022 in mainland China[J]. **Urban Climate**, 2023: 101591.
 - **Liu Y**, Liu W, Lin Y, et al. Urban waterlogging resilience assessment and postdisaster recovery monitoring using NPP-VIIRS nighttime light data: A case study of the ‘July 20, 2021’heavy rainstorm in Zhengzhou City, China[J]. **International Journal of Disaster Risk Reduction**, 2023: 103649.
 - **Liu Y**, Zhang X, Liu W, et al. Seismic vulnerability and risk assessment at the urban scale using support vector machine and GIScience technology: a case study of the Lixia District in Jinan City, China[J]. **Geomatics, Natural Hazards and Risk**, 2023, 14(1): 2173663.
