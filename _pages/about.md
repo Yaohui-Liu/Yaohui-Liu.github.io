@@ -27,7 +27,7 @@ redirect_from:
 
 - 近年来发表论文50余篇，论文总被引超过500次。获批发明专利7项。长期担任IEEE TGRS; Remote Sensing; IEEE Sensors Journal; IJDE; IEEE JSTARS; IJERPH; Sensors; IEEE Access; Buildings; Geocarto International; Sustainability; Arabian Journal of Geosciences; GeoHazards; Informatics; 测绘通报; 北京测绘等多个期刊审稿专家。
 
-- 与国家对地观测科学数据中心、中国地震台网中心、生态环境部环境规划院、中国地震应急搜救中心、中国地震灾害防御中心、中国地震局地质研究所、山东省地震局、山东科技大学、澳大利亚昆士兰大学等多家单位开展密切合作。
+- 与国家对地观测科学数据中心、中国地震台网中心、交通运输部公路研究院、生态环境部环境规划院、中国地震应急搜救中心、中国地震灾害防御中心、中国地震局地质研究所、山东省地震局、山东科技大学、澳大利亚昆士兰大学等多家单位开展密切合作。
 
 
 # 研究方向 (Interests)
