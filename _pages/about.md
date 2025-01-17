@@ -27,7 +27,7 @@ redirect_from:
 
 - 主持国家自然科学基金、中国博士后科学基金、山东省自然科学基金、科技部、教育部等多项科研项目，参与国家自然科学基金国际（地区）合作与交流项目、面上基金、青年基金，国家重点研发计划项目，中国地震局行业专项等十余项。
 
-- 近年来发表论文60余篇，论文总被引超过900次。获批发明专利7项。长期担任IEEE TGRS; Remote Sensing; IEEE Sensors Journal; Natural Hazards; IJDRS; IJDE; IEEE JSTARS; IJERPH; Sensors; IEEE Access; Buildings; Geocarto International; Sustainability; Arabian Journal of Geosciences; GeoHazards; Informatics; 测绘通报; 北京测绘；华南地震等多个期刊审稿专家。
+- 近年来发表论文60余篇，论文总被引超过900次。获批发明专利7项。长期担任Nature Communications; IEEE TGRS; Remote Sensing; IEEE Sensors Journal; Natural Hazards; IJDRS; IJDE; IEEE JSTARS; IJERPH; Geocarto International; Sustainability; Arabian Journal of Geosciences; GeoHazards; Informatics; 测绘通报; 北京测绘；华南地震等多个期刊审稿专家。
 
 - 与国家对地观测科学数据中心、中国地震台网中心、交通运输部公路研究院、生态环境部环境规划院、中国地震应急搜救中心、中国地震灾害防御中心、中国地震局地质研究所、山东省地震局、山东科技大学、澳大利亚昆士兰大学等多家单位开展密切合作。
 
