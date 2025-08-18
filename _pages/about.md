@@ -21,13 +21,13 @@ redirect_from:
 
 **刘耀辉，博士后、副教授、硕士生导师、遥感系副主任**
 
-2020年获中国地震局地质研究所博士学位。研究方向为遥感智能解译、灾害风险与管理。主持国家自然科学基金青年项目，中国博士后科学基金，山东省自然科学基金青年项目，教育部、科技部、河北省、重庆市重点实验室开放基金等纵横向科研项目12项。发表论文60余篇，其中1篇论文入选ESI高被引论文；Google Scholar被引1000+次。授权发明专利10项，获准软件著作权3项。获得地理信息科技进步二等奖（2023）等奖励。
+2020年获中国地震局地质研究所博士学位。研究方向为遥感智能解译、灾害风险与管理。主持国家自然科学基金青年项目，中国博士后科学基金，山东省自然科学基金青年项目，教育部、科技部、河北省、重庆市重点实验室开放基金等纵横向科研项目12项。发表论文60余篇，其中1篇论文入选ESI高被引论文；Google Scholar被引1200+次。授权发明专利10项，获准软件著作权5项。获得地理信息科技进步二等奖、山东省自然资源科学技术一等奖等奖励。
 
 - 澳大利亚昆士兰大学高级访问学者，国家自然科学基金评审专家，江苏省教育厅本科毕业论文（设计）抽检评审专家，中国地理学会会员，中国图像图形学会会员，山东省遥感协会专家库成员，山东省灾害防御协会专家组成员，山东省第一次全国自然灾害综合风险普查领导小组技术组秘书处成员，地震工程学报青年编委，Journal of Ecology and Natural Resources编委，Frontiers in Environmental Science编辑，Remote Sensing、Forests\IJERPH、Frontiers in Remote Sensing客座编辑，山东建筑大学优秀指导教师。
 
 - 主持国家自然科学基金、中国博士后科学基金、山东省自然科学基金、科技部、教育部等多项科研项目，参与国家自然科学基金国际（地区）合作与交流项目、面上基金、青年基金，国家重点研发计划项目，中国地震局行业专项等十余项。
 
-- 近年来发表论文60余篇，论文总被引超过1000次。获批发明专利7项。长期担任Nature Communications; IEEE TGRS; Remote Sensing; IEEE Sensors Journal; Natural Hazards; IJDRS; IJDE; IEEE JSTARS; IJERPH; Geocarto International; Sustainability; Arabian Journal of Geosciences; GeoHazards; Informatics; 测绘通报; 北京测绘；华南地震等多个期刊审稿专家。
+- 长期担任Nature Communications; IEEE TGRS; Remote Sensing; IEEE Sensors Journal; Natural Hazards; IJDRS; IJDE; IEEE JSTARS; IJERPH; Geocarto International; Sustainability; Arabian Journal of Geosciences; GeoHazards; Informatics; 测绘通报; 北京测绘；华南地震等多个期刊审稿专家。
 
 - 与国家对地观测科学数据中心、中国地震台网中心、交通运输部公路研究院、生态环境部环境规划院、中国地震应急搜救中心、中国地震灾害防御中心、中国地震局地质研究所、山东省地震局、山东科技大学、澳大利亚昆士兰大学等多家单位开展密切合作。
 
@@ -170,5 +170,5 @@ redirect_from:
 - *2020年* 获得**博士研究生国家奖学金**。
 
 
-# *Last Updates* 2025.01.09
+# *Last Updates* 18-08-2025
 
